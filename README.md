@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seyedalirezaabbaspour
+- 👋 Hi, I’m Seyed Alireza Abbaspour
 - 👀 I’m interested in Machine vision
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me => phone number : +989395267255
