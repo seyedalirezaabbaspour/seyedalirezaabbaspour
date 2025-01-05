@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Seyed Alireza Abbaspour
-- 👀 interested in python, AI, django 
-- 🌱 I’m currently learning Deep Learning
+- 👀 interested in python, AI, Dart, Flutter
 - 📫 How to reach me :: phone number : +989395267255    
      gmail : seyedalirezaabbaspour@gmail.com
 
